@@ -1,0 +1,15 @@
+.navbar-link {
+  font-size: 20px;
+  color: #eee;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#navbar-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #191919;
+  padding: 20px 0;
+}
