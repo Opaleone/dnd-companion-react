@@ -1,0 +1,77 @@
+[
+  {
+    "playerName": "John Doe",
+    "characterName": "Big John",
+    "class": "Fighter",
+    "race": "Human",
+    "background": "Farmer",
+    "alignment": "Lawful Good",
+    "exp": 0,
+    "strength": 15,
+    "dexterity": 14,
+    "constitution": 13,
+    "intelligence": 12,
+    "wisdom": 10,
+    "charisma": 8,
+    "inspiration": 0,
+    "proficiencyBonus": 2,
+    "savingThrows": {
+      "strength": 0,
+      "dexterity": 0,
+      "constitution": 0,
+      "intelligence": 0,
+      "wisdom": 0,
+      "charisma": 0
+    },
+    "skills": {
+      "acrobatics": true,
+      "animalHandling": false,
+      "arcana": false,
+      "athletics": false,
+      "deception": false,
+      "history": false,
+      "insight": false,
+      "intimidation": false,
+      "investigation": false,
+      "medicine": false,
+      "nature": false,
+      "perception": false,
+      "performance": false,
+      "persuasion": false,
+      "religion": false,
+      "slightOfHand": false,
+      "stealth": false,
+      "survival": false
+    },
+    "passivePerception": 10,
+    "armorClass": 10,
+    "initiative": 0,
+    "speed": 30,
+    "hitPoints": {
+      "max": 10,
+      "current": 10,
+      "temp": 0
+    },
+    "deathSaves": {
+      "successes": 0,
+      "failures": 0
+    },
+    "attacksAndSpells": [
+      {
+        "name": "Longsword",
+        "attackBonus": 2,
+        "damage": "1d8 + 2",
+        "damageType": "Slashing",
+        "range": "Melee",
+        "description": "Nice"
+      }
+    ],
+    "equipment": "needs work",
+    "personality": "player entered personality",
+    "ideals": "player entered ideals",
+    "bonds": "player entered bonds",
+    "flaws": "player entered flaws",
+    "featuresAndTraits": "player entered features and traits",
+    "proficienciesAndLanguages": "player entered proficiencies and languages"
+  }
+]
