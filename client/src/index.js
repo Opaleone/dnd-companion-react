@@ -7,6 +7,7 @@ import './index.css';
 import './styles/homepage.css'
 import './styles/characterSheet.css'
 import './styles/navbar.css'
+import './styles/footer.css'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
